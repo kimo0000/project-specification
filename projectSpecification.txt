@@ -1,0 +1,30 @@
+                                      APP E-COMMERCE 
+
+dans cette application le client peut acheter un phone de marque sumsung en ligne et peut avoir le choix entre les marque proposer
+et peut aussi l'ajouter a son panier , suprimer de son panier et il peut aussi proceder en allons au checkout pour le payer .
+voici les etapes de toute lapplication :
+     01) create react app. 
+     02) installez boostatrp , font-awesome, react-router-dom, redux react-redux.
+     03) creer une fichier Date.js qui contient tout nos donner a la source. 
+     04) creez nos components
+     05) installez bowserRouter et englober notre App + creez les Route pour nos fichier et les mettre dans Switch sauf le Header + footer.
+     06) commencer a creez notre premier fichier Header en mettons un model navbar de bootstarp et mettre un peut de modification.
+     07) creez notre dossier bouttons qui contient nos trois bouttons.
+     08) creez le bouttons login.
+     09) creez le bouttons register.
+     10) creez notre bouttons Cart.
+     11) creez notre fichier Home avec une carousel de bootstrap.
+     12) creez nos products fichier.
+     13) importer nos donner de notre fichier Date.jsx.
+     14) les mettre dans une carte pour voir tout les produit disponible.
+     15) creez maintenant notre fichier productDetail qui contient le produit cibler par le client.
+     16) contruire le bouttons Add To Cart et changer son text en remove from cart selon les besoin du client.
+     17) mtn creyons notre fichier CartPage.
+     18) en devrait utilisez les hooks pour cela.
+     19) mtn creyons notre dossier redux qui contient tout nos action.
+     20) utilisons les dans notre application avec useSelector + useDispatch + les actions creez.
+     21) tout fonctione parfaitement.
+     22) mtn creyons notre fichier checkout en important un modal de bootstrap et utilisons les actions creez dans notre redux.
+     23) et finalement creyons notre Footer et mettre des petit icons qui conduit vers facebook + insta + twitter.
+
+remarque : en a utilisez bootstrap dans toute notre application.                              
